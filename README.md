@@ -11,6 +11,11 @@
 
 ![https://github-readme-stats.vercel.app/api?username=liquidsword&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515](https://github-readme-stats.vercel.app/api?username=liquidsword&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
+## Connect with me
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
+
+
 ## Medium Blog
 [Superhero You!](https://medium.com/@audenrobertson/superhero-you-1c097df46b22)![Man standing on a rocky shore lookin up as the sun sets](https://miro.medium.com/max/2000/1*FPSo2-VxjUzvX8xRfWfu5A.jpeg)
 
