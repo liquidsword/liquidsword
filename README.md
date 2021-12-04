@@ -14,9 +14,7 @@
 
 [<img align="left" alt="mr.mainevent | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mr.mainevent/)
 [<img align="left" alt="liquidsword | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/auden-robertson-mba-88a75117/)
-
-
-
+</br>
 
 ## Medium Blog
 [Superhero You!](https://medium.com/@audenrobertson/superhero-you-1c097df46b22)![Man standing on a rocky shore lookin up as the sun sets](https://miro.medium.com/max/2000/1*FPSo2-VxjUzvX8xRfWfu5A.jpeg)
