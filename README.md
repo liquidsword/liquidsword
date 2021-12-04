@@ -28,15 +28,17 @@
 
 ## My Github Portfolio
 - 🗃 [Projects & Pasttimes](https://liquidsword.github.io/AB-Robertson/dist/index.html)
-## Connect with me 📫
-
-[<img align="left" alt="mr.mainevent | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mr.mainevent/)
-[<img align="left" alt="liquidsword | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/auden-robertson-mba-88a75117/)
-</br>
-</br>
 
 ## Medium Blog
 - [Superhero You!](https://medium.com/@audenrobertson/superhero-you-1c097df46b22)
 
 - [Networking for the Introvert ](https://medium.com/@audenrobertson/networking-for-the-introvert-5d72779567f7)
+</br>
+
+## Connect with me 📫
+
+[<img align="left" alt="mr.mainevent | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mr.mainevent/)
+[<img align="left" alt="liquidsword | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/auden-robertson-mba-88a75117/)
+
+
 
