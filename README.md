@@ -5,16 +5,15 @@
 - 👯 I’m looking to collaborate on projects that utilize Javascript and React.
 - 🤔 I’m looking for help with sharpening up my skillset.
 - 💬 Ask me about art or martial arts.
-- 📫 How to reach me: [My LinkedIn profile 🤓](https://www.linkedin.com/in/auden-robertson-mba-88a75117/)
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: I am a Jiu Jutsu and Muay Thai martial artist...
 
 ![https://github-readme-stats.vercel.app/api?username=liquidsword&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515](https://github-readme-stats.vercel.app/api?username=liquidsword&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-## Connect with me
+## Connect with me 📫
 
 [<img align="left" alt="mr.mainevent | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mr.mainevent/)
-[<img align="left" alt="liquidsword | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="liquidsword | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/auden-robertson-mba-88a75117/)
 
 
 
