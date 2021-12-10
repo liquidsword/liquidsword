@@ -3,10 +3,10 @@
 - 🔭 I’m currently working on updating my Barbershop app.
 - 🌱 I’m currently learning a more in-depth approach to object oriented design.
 - 👯 I’m looking to collaborate on projects that utilize Javascript and React.
-- 🤔 I’m looking for help with sharpening up my skillset.
+- 🤔 I’m looking for an awesome Javascript mentor.
 - 💬 Ask me about art or martial arts.
 - 😄 Pronouns: He/Him...
-- ⚡ Fun fact: I am a Jiu Jutsu and Muay Thai martial artist 🥋
+- ⚡ Fun fact: I am a Jiu Jitsu and Muay Thai martial artist 🥋
 </br>
 </br>
 
