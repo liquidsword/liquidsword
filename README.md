@@ -1,6 +1,6 @@
 ### Hello World! 🥳 (I'm sure you saw that coming 😜)
 
-- 🔭 I’m currently working on updating my Barbershop app.
+- 🔭 I’m currently working on updating my barbershop scheduling app.
 - 🌱 I’m currently learning a more in-depth approach to object oriented design.
 - 👯 I’m looking to collaborate on projects that utilize Javascript and React.
 - 🤔 I’m looking for an awesome Javascript mentor.
