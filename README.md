@@ -32,6 +32,10 @@
 - [Superhero You!](https://medium.com/@audenrobertson/superhero-you-1c097df46b22)
 
 - [Networking for the Introvert ](https://medium.com/@audenrobertson/networking-for-the-introvert-5d72779567f7)
+
+- [How to know if you're introverted](https://medium.com/@audenrobertson/what-do-you-mean-im-an-introvert-24d9b69fbad4)
+
+- [5 Of the Best Habits to Improve Your Martial Arts Skills](https://medium.com/@audenrobertson/5-of-the-best-habits-to-improve-your-martial-arts-skills-9207503324a2)
 </br>
 
 ## Connect with me 📫
