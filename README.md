@@ -1,7 +1,7 @@
 ### Hello World! 🥳 (I'm sure you saw that coming 😜)
 
 - 🔭 I earned my project management certification.
-- 🥋 I earned my blue belt in Brazilian Jiu Jitsu in April.
+- 🥋 I earned my purple belt in Brazilian Jiu Jitsu.
 - 🤔 I’m looking for an awesome Javascript mentor.
 - 💬 Ask me about art or martial arts.
 - 😄 Pronouns: He/Him...
