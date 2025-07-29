@@ -5,7 +5,7 @@
 - 🤔 I’m looking for an awesome Javascript mentor.
 - 💬 Ask me about art or martial arts.
 - 😄 Pronouns: He/Him...
-- ⚡ Fun fact: I am a Jiu Jitsu and Muay Thai martial artist 🥋
+- ⚡ Fun fact: I am a Kung Fu, Jiu Jitsu and Muay Thai martial artist 🥋
 </br>
 </br>
 
